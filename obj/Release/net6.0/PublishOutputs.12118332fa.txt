@@ -1,0 +1,5 @@
+C:\Users\dot\source\repos\stss\bin\Release\net6.0\publish\stss.exe
+C:\Users\dot\source\repos\stss\bin\Release\net6.0\publish\stss.dll
+C:\Users\dot\source\repos\stss\bin\Release\net6.0\publish\stss.deps.json
+C:\Users\dot\source\repos\stss\bin\Release\net6.0\publish\stss.runtimeconfig.json
+C:\Users\dot\source\repos\stss\bin\Release\net6.0\publish\stss.pdb

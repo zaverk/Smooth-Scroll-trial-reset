@@ -1,0 +1,15 @@
+C:\Users\dot\source\repos\stss\bin\Release\net6.0\stss.exe
+C:\Users\dot\source\repos\stss\bin\Release\net6.0\stss.deps.json
+C:\Users\dot\source\repos\stss\bin\Release\net6.0\stss.runtimeconfig.json
+C:\Users\dot\source\repos\stss\bin\Release\net6.0\stss.dll
+C:\Users\dot\source\repos\stss\bin\Release\net6.0\stss.pdb
+C:\Users\dot\source\repos\stss\obj\Release\net6.0\stss.csproj.AssemblyReference.cache
+C:\Users\dot\source\repos\stss\obj\Release\net6.0\stss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dot\source\repos\stss\obj\Release\net6.0\stss.AssemblyInfoInputs.cache
+C:\Users\dot\source\repos\stss\obj\Release\net6.0\stss.AssemblyInfo.cs
+C:\Users\dot\source\repos\stss\obj\Release\net6.0\stss.csproj.CoreCompileInputs.cache
+C:\Users\dot\source\repos\stss\obj\Release\net6.0\stss.dll
+C:\Users\dot\source\repos\stss\obj\Release\net6.0\refint\stss.dll
+C:\Users\dot\source\repos\stss\obj\Release\net6.0\stss.pdb
+C:\Users\dot\source\repos\stss\obj\Release\net6.0\stss.genruntimeconfig.cache
+C:\Users\dot\source\repos\stss\obj\Release\net6.0\ref\stss.dll
